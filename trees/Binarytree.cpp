@@ -123,6 +123,6 @@ int main(){
             case 6:cout << "Exiting program" << endl;break;
             default:cout << "Invalid choice" << endl;
         }
-    } while (choice != 6);
+    while (choice != 6);
     return 0;
 }   
